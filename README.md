@@ -49,6 +49,7 @@
 
 - 🧩 Participated in multiple **online and offline hackathons**
   - Built projects during **24-hour virtual hackathons**
+  - CBIT Hacktoberfest 2025 | HackIndia 2025 | AI Hack Day 2025 (Swecha)
 
 ---
 
