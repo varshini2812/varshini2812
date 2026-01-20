@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varshini</h1>
-<h3 align="center">3rd Year B.Tech (AIML) Student | Aspiring SDE / ASE / Data Analyst / Frontend Developer</h3>
+<h3 align="center">3rd Year B.Tech (AIML) Student | Aspiring SDE / Data Analyst</h3>
 
 ---
 
