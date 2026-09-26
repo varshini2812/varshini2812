@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Varshini</h1>
-<h3 align="center">3rd Year B.Tech (AIML) Student | Aspiring SDE / Data Analyst</h3>
+<h3 align="center">Final Year B.Tech (AIML) Student | Aspiring SDE / Data Analyst</h3>
 
 ---
 
 ### 👩‍💻 About Me
-- 🎓 3rd-year **B.Tech undergraduate in Artificial Intelligence & Machine Learning**
+- 🎓 Final-year **B.Tech undergraduate in Artificial Intelligence & Machine Learning**
 - 💡 Exploring roles in **Software Development and Data Analytics**
 - ⚙️ Actively building skills in **Full-Stack Development, Data Analytics, and Machine Learning**
 - 🚀 Open to **internships and entry-level job opportunities**
