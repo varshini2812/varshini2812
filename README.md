@@ -82,7 +82,7 @@
 - Matplotlib  
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=varshini2812&show_icons=true&theme=radical" />
@@ -91,8 +91,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshini2812&theme=radical" />
 </p>
-
 ---
+-->
+
 
 ### 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/yalagam-varshini/
